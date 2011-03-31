@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Copyright (C) 2011  Nashath Rafeeq.
-#   pyUCTItimetable V.0.0.1
+#   Reddit Url Harvester  V.0.0.1
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
